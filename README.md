@@ -121,7 +121,6 @@ public class ApplicationUtils extends Application {
     public void onCreate() {
         super.onCreate();
         isDebug = true;
-        Log.d("asdasd","asdasd");
     }
 }
 ```
