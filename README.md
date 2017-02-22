@@ -151,4 +151,4 @@ Api calls failed popups etc.
 I will re-structure the code for this and make some of above mentioned topics.
 Until then if you do want to contribute go ahead and solve the basic problems of android devops.
 
-You can connect me on <a href="https://in.linkedin.com/in/parth-dave-907b8177">linkdin</a> or to my email parth.dave93@gmail.com
+You can connect me on <a href="https://in.linkedin.com/in/parth-dave-907b8177">Linkdin</a> or to my email parth.dave93@gmail.com
