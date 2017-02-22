@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnnotationProcessorExample</string>
+    <string name="facebook_app_id" translatable="false">1701613903421300</string>
+    <string name="manifest_app_name">AnnotationProcessorExample</string>
+</resources>
