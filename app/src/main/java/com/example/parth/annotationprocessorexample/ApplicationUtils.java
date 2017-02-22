@@ -6,7 +6,7 @@ import android.util.Log;
 import com.parthdave.annotations.FacebookInit;
 
 /**
- * Created by sotsys-014 on 16/1/17.
+ * Created by Parth Dave(parth.dave93@gmail.com)-014 on 16/1/17.
  */
 
 @FacebookInit
