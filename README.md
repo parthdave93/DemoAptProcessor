@@ -90,8 +90,7 @@ check <a href="https://github.com/parthdave93/DemoAptProcessor/blob/master/annot
 
 2. Register this annotation processor
 ---------
-<img src="https://github.com/parthdave93/DemoAptProcessor/blob/master/captures/image1.png
-></img>
+<img src="https://github.com/parthdave93/DemoAptProcessor/blob/master/captures/image1.png"/>
 
 
 Goto <kbd>main > resources > create directory META-INF.services</kbd>
